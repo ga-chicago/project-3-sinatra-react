@@ -2,9 +2,8 @@
 
 ### Overview
 
-This third project is a chance to flex your MVC muscles in a new language, Ruby.
+This project is a chance to flex your MVC muscles in a new language—Ruby—and show off your new React prowess.
 
-**You can optionally work in pairs on this project** We hope you'll exercise creativity on this project, 
 Before you start, sketch your wireframes and write user stories to define what your users will want to do with the app. Run your database schema, your user stories, and your wireframes by your instructors to get their feedback before you dive into code! Remember to keep things small and focus on mastering the fundamentals – scope creep/feature creep is the biggest pitfall for any project! Set up some easily achievable MVP goals, a couple goals you might get to, and a couple stretch goals that you probably won't get to. We will be making sure that before you start you have a solid understanding of the data your program will use, the structures/relations you're planning create with it on the back end, and generally the way it fits into the UI flow of your front end.
 
 ---
@@ -13,6 +12,7 @@ Before you start, sketch your wireframes and write user stories to define what y
 
 Your app must:
 
+* be an SPA you built consuming an API you built
 * **Have at _least_ 2 RELATED models** (but more is great) – Of course you'll have a user model with login/etc. Bare minimum is you must have a relation between that user and some model in that app. If you can do it we'd love to see a second model (and third and fourth, if necessary) related to that one.
 * **Include sign up/log in functionality**, with encrypted passwords & an authorization flow
 * **Include wireframes in the README.md for the React repo AT presentation time** 
@@ -47,11 +47,12 @@ Your app must:
 ### Suggested Ways to Get Started
 
 * **Begin with the end in mind.** Know where you want to go by planning with wireframes & user stories, so you don't waste time building things you don't need. Keep it lean and keep it elegant.
+* As your wireframes are taking shape, you should be figuring out what data you're going to have, and what the database schemas will look like.  Don't start developing until you have **a solid plan/understanding about what data you'll be using exactly, the schemas, and the relevant relations.**
 * **Don’t hesitate to write throwaway code to solve short term problems**
 * **Read the docs for whatever technologies you use.** Most of the time, there is a tutorial that you can follow, but not always, and learning to read documentation is crucial to your success as a developer
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
-* **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just make them _todo lists_ for what needs to get done, but if you keep them small & focused on what a user cares about from their perspective, it'll help you know what ot build
-* **Write pseudocode before you write actual code.** Thinking through the logic of something helps.
+* **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just make them _todo lists_ for what needs to get done, but if you keep them small & focused on what a user cares about from their perspective, it will help you make important development decisions
+* **Write pseudocode before you write actual code.** By this point, you're likely realizing the benefit of thinking through your logic this way.
 
 ---
 
@@ -65,6 +66,12 @@ You will create an application where users can create and share their favorite b
 
 ##### Photo sharing app
 Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them.
+
+##### Restaurant or coffee shop software
+
+##### Doctor's office software to track appointments or conditions
+
+##### Something totally wild and off the map that we never would have thought of—be as creative as you like.
 
 ---
 
