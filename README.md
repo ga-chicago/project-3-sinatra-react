@@ -67,11 +67,20 @@ You will create an application where users can create and share their favorite b
 ##### Photo sharing app
 Users will be able to register and create albums and photos. Albums and photos will need to be named and described by their owners. Users will be able to view other users' albums. Maybe users can comment on photos, or either up/down vote them.
 
-##### Restaurant or coffee shop software
+##### Restaurant or coffee shop or software
 
 ##### Doctor's office software to track appointments or conditions
 
 ##### Something totally wild and off the map that we never would have thought of—be as creative as you like.
+
+* something to do with pets - adoption, photo gallery, or breed encyclopedia 
+* or travel blogs/planners/flights/or coffee shop/golf course finder
+* or music concerts or instruments or instrument makers or store
+* or movies actors theaters indie whatever
+* software uniquely informed by your pre-developer background
+* any of the above or below with a social/forum/messaging/commenting/interactive aspect
+* something that plays a critical role in a scientific pursuit
+* a tool for teachers to use to organize materials and/or resources and/or student info/grades/long-term progress
 
 ---
 
