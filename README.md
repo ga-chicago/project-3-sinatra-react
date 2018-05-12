@@ -27,7 +27,7 @@ Your app must:
 * Both should be live and publicly accessible on the internet
 * **Two corresponding git repositories hosted on Github**, with links to the hosted project, and frequent commits dating back to the **very beginning** of the project. Try to make each commit represent a completed improvement—i.e. try not to commit/push: 
   * code that isn't working, or
-  * code that still has 230986 console.logs -- delete them once you've solved whatever you put them in to solve
+  * code that still has 230986 console.logs -- delete them once you've solved your problem and **replace them with concise helpful clarifying comments"
   * unused/commented-out code 
 * Sinatra/API `README.md`: try to include at least minimal concise documentation for your API describing each route, how to access it, and what kind of response the user can expect back from it. Ideally any random person should only need to read that to use your API. Consult other API documentation you've used for examples.
 * **React ``README.md``** should include the following:
